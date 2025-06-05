@@ -43,21 +43,17 @@ Explorar la relación entre variables como edad, colesterol, glucosa, presión a
 👉 View the interactive dashboard on **[Tableau Public](https://public.tableau.com/app/profile/dulce.tapia)**  
 
 ## 📁 Project Structure
-Analisis-de-Crecimiento-del-Ecommerce-en-EU
+Deteccion-de-Factores-de-Riesgo-para-Enfermedades-Cardiovasculares
 
-data/usa_ecommerce_data.csv
-scripts/Analisis-de-Ecommerce.Rmd
-       /Analisis_ecommerce.R
+data/cardio_train.csv
        
-outputs/Analisis Estrategico del Crecimiento del E-commerce en EE. UU..twbx
-       /Dashboard_Analisis.png
-       /plots/Rplot.png
-       /plots/Rplot01.png
-       /plots/Rplot02.png
-       
+SQL/Enf_cardio.sql
+
+Tableau/dashboard.png
+       /enf_cardio_Tableau.twbx
 README.md
 
 ## 🚀 Cómo ejecutar el proyecto
-1. Clona este repositorio https://github.com/Dulce-Tapia/Analisis-Comparativo-de-Estrategias-De-Marketing-InstagramVSTiktok.git
+1. Clona este repositorio https://github.com/Dulce-Tapia/Deteccion-de-factores-de-riesgo-para-enfermedades-cardiovasculares.git
 2. Ejecuta los scripts SQL en tu motor de base de datos.
-3. Abre el archivo dashboard.twbx en Tableau para explorar el análisis.
+3. Abre el archivo enf_cardio_Tableau.twbx en Tableau para explorar el análisis.
