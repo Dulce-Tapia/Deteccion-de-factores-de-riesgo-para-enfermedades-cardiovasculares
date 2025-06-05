@@ -58,8 +58,6 @@ outputs/Analisis Estrategico del Crecimiento del E-commerce en EE. UU..twbx
 README.md
 
 ## 🚀 Cómo ejecutar el proyecto
-1. Clonar el repositorio 
- `https://github.com/Dulce-Tapia/Analisis-de-Crecimiento-del-Ecommerce-en-EU.git`
-2. Abre `scripts/Analisis-de-Ecommerce.Rmd` en RStudio
-3. Ejecuta el código para limpiar y analizar los datos
-4. Abra `dashboard_tableau.twbx` en Tableau Desktop
+1. Clona este repositorio https://github.com/Dulce-Tapia/Analisis-Comparativo-de-Estrategias-De-Marketing-InstagramVSTiktok.git
+2. Ejecuta los scripts SQL en tu motor de base de datos.
+3. Abre el archivo dashboard.twbx en Tableau para explorar el análisis.
